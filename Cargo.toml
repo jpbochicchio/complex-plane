@@ -3,7 +3,12 @@ name = "complex-plane"
 version = "0.1.0"
 edition = "2021"
 authors = ["John Bochicchio <jpbochicchio@gmail.com>"]
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+repository = "https://github.com/jpbochicchio/complex-plane.git"
+homepage = "https://github.com/jpbochicchio/complex-plane.git"
+license = "MIT"
+readme = "README.md"
+documentation = "https://github.com/jpbochicchio/complex-plane/"
+description = "Simple implementation of complex numbers and their associated operations in the complex plane."
 
 [dependencies]
+# Pure rust baby, no dependencies required!
