@@ -10,5 +10,11 @@ readme = "README.md"
 documentation = "https://github.com/jpbochicchio/complex-plane/"
 description = "Simple implementation of complex numbers and their associated operations in the complex plane."
 
+[lib]
+crate-type = ["lib"]
+
+[badges.maintenance]
+status = "actively-developed"
+
 [dependencies]
 # Pure rust baby, no dependencies required!
