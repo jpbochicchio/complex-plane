@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/jpbochicchio/complex-plane.svg?branch=maaster)](https://travis-ci.org/jpbochicchio/complex-plane)
+[![Build Status](https://app.travis-ci.com/jpbochicchio/complex-plane.svg?branch=master)](https://app.travis-ci.com/jpbochicchio/complex-plane)
 
 # Basic Outline
 This is a simple implementation of numbers in the complex plane. Includes addition, subtraction, and multiplication. The main module is `complex_numbers`, and the actual implementation of a complex number is defined within under `Complex`.
